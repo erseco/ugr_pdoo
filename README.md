@@ -10,4 +10,4 @@ Prácticas de la asignatura Programación y Diseño Orientado a Objetos de la Un
   
   - Si crees crees que este repositorio debería desaparecer por cualquier motivo escríbeme a info@ernesto.es
   
-
+  - Tras comentarlo con algunos miembros del departamento LSI se decidió no continuar con el desarrollo de esta práctica por el potencial abuso del mismo, se deja el repositorio con fines históricos.
